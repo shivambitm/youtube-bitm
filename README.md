@@ -1,6 +1,8 @@
 # youtube-clone-app
 project-02 - YouTube Clone App
 A fully responsive ReactJS application, consisting of video sections, different categories, channel pages and most important we can play videos straight from there
+I have used rapid API - https://rapidapi.com/ytdlfree/api/youtube-v31
+
 
 deployed here - https://youtubebitm.netlify.app/
 - I have used Material UI (version 5)
